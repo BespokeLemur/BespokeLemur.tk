@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/issues/BespokeLemur/BespokeLemur.tk)
 
 <h1 align="center">Personal Website</h1>
-<h6 align="center">Developed with ❤️ by <a href="https://emirhanince.tk">Emirhan</a></h6>
+<h6 align="center">Developed with ❤️ by <a href="https://emirhanince.tk">Emirhan/BespokeLemur</a></h6>
 
 <img src="https://i.ibb.co/sV56Dbv/Portfolio-Readme.png"/>
 
