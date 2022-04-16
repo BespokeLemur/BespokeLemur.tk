@@ -1,5 +1,5 @@
 [![DeepScan grade](https://deepscan.io/api/teams/17008/projects/20358/branches/554638/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=17008&pid=20358&bid=554638)
-[](https://img.shields.io/github/issues/BespokeLemur/BespokeLemur.tk)
+![](https://img.shields.io/github/issues/BespokeLemur/BespokeLemur.tk)
 
 <h1 align="center">Personal Website</h1>
 <h6 align="center">Developed with ❤️ by <a href="https://emirhanince.tk">Emirhan</a></h6>
